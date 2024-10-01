@@ -3,7 +3,7 @@
     "description": "package to help symfony user to setup cqrs using messenger library",
     "type": "library",
     "require": {
-        "symfony/messenger": "6.4.x-dev"
+        "symfony/messenger": "6.*"
     },
     "license": "MIT",
     "autoload": {
