@@ -1,0 +1,21 @@
+{
+    "name": "jkhaled/messenger-cqrs",
+    "description": "package to help symfony user to setup cqrs using messenger library",
+    "type": "library",
+    "require": {
+        "symfony/messenger": "6.4.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jkhaled\\MessengerCqrs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khaled",
+            "email": "khaled.hadj.a@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
